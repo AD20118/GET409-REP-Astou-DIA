@@ -11,7 +11,7 @@ Swiss UMEF University — Campus de Dakar
 
 - **URL MVP Lovable :** https://infosantedakar.lovable.app/
 - **URL Agent Dify publié :** https://udify.app/chat/nBeVgW1ELBcY1Hwl
-- **HMW définitif retenu :** Comment pourrions-nous permettre à Fatou de vérifier, avant de quitter sa boutique, si le personnel de santé est présent et le temps d'attente estimé au poste de santé, via WhatsApp — le canal qu'elle utilise déjà quotidiennement ?
+- **HMW définitif retenu :** Comment pourrions-nous permettre à Fatou de vérifier, avant de quitter sa boutique, si le personnel de santé est présent et le temps d'attente estimé au poste de santé via le canal qu'elle utilise déjà quotidiennement ?
 
 ## Structure du repo
 
