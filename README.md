@@ -32,7 +32,7 @@ docs/
 
 ## Cas traité
 
-**Persona A — Fatou, 34 ans, vendeuse au marché HLM, feature phone.**
+**Persona A - Fatou, 34 ans, vendeuse au marché HLM, feature phone.**
 Problème observé : perte d'une demi-journée à chaque visite au poste de santé (file d'attente, absence du médecin non annoncée).
 
 ## Chaîne de cohérence (traçabilité)
