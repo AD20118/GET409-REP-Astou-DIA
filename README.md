@@ -5,7 +5,7 @@ Swiss UMEF University — Campus de Dakar
 
 **Candidate :** Astou DIA
 **GitHub :** AD20118
-**Terrain choisi :** A — Santé de proximité (persona Fatou)
+**Terrain choisi :** A - Santé de proximité (persona Fatou)
 
 ## ⚠️ Liens obligatoires (à compléter avant la deadline — un livrable non accessible = non évalué)
 
