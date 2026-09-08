@@ -16,7 +16,9 @@ Comment pourrions-nous, via un agent conversationnel simple, permettre à Fatou 
 
 ## Version retenue
 
-> **Comment pourrions-nous permettre à Fatou de vérifier, avant de quitter sa boutique, si le personnel de santé est présent et le temps d'attente estimé au poste de santé, via un canal accessible à tous (SMS/agent conversationnel) ?**
+> **Comment pourrions-nous permettre à Fatou de vérifier, avant de quitter sa boutique, si le personnel de santé est présent et le temps d'attente estimé au poste de santé, via WhatsApp — le canal qu'elle utilise déjà quotidiennement ?**
+
+*(Canal WhatsApp confirmé par l'interview réelle : la personne interrogée l'utilise déjà pour son activité et le cite spontanément comme solution.)*
 
 ## Les 3 critères de validation (cours)
 

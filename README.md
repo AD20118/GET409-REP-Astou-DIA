@@ -9,8 +9,8 @@ Swiss UMEF University — Campus de Dakar
 
 ## ⚠️ Liens obligatoires (à compléter avant la deadline — un livrable non accessible = non évalué)
 
-- **URL MVP Lovable :** _[à compléter]_
-- **URL Agent Dify publié :** _[à compléter]_
+- **URL MVP Lovable :** https://infosantedakar.lovable.app/
+- **URL Agent Dify publié :** https://udify.app/chat/nBeVgW1ELBcY1Hwl
 - **HMW définitif retenu :** _[à copier depuis docs/hmw-definitif.md une fois validé]_
 
 ## Structure du repo
